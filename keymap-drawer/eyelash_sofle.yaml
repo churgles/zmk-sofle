@@ -27,7 +27,7 @@ layers:
   - O
   - P
   - {t: '=', s: +}
-  - $$mdi:apple-keyboard-caps$$
+  - {t: Gui+P, h: C}
   - A
   - S
   - D
